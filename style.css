@@ -12,27 +12,23 @@
 }
 
 .yellow:hover {
-  color: #ff0;
+  color: #c6ad00;
 }
 
-.yellow-orange:hover {
-  color: #fc0;
-}
-
-.orange:hover {
-  color: #f60;
-}
-
-.orange-red:hover {
-  color: #ff5349;
-}
-
-.red:hover {
-  color: #f00;
+.green:hover {
+  color: #98c379;
 }
 
 .blue:hover {
-  color: #00f;
+  color: #56b6c2;
+}
+
+.purple:hover {
+  color: #b400b9;
+}
+
+.red:hover {
+  color: #c62d48;
 }
 
 input {
@@ -47,7 +43,7 @@ input {
 }
 
 input:focus {
-  border: 1px solid #f00;
+  border: 1px solid #07682c;
   outline: 0;
 }
 
@@ -68,7 +64,7 @@ input:focus {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.025em;
-  color: #f00;
+  color: #6772e5;
   text-decoration: none;
   transition: all 0.15s ease;
 }
